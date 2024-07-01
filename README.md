@@ -23,9 +23,7 @@
 - Filtro de usuários: É utilizado para fazer a verificação do cpf de cada usuário, para o caso demja existir uma conta ou um cadastro de usuário ja vinculados com aquele cpf
 
 ## O que foi utilizado
-- Variáveis
-- Estruturas condicionais
-- Estruturas de repetição
-- Estruturas de dados
-- Funções
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 

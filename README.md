@@ -2,7 +2,7 @@
 
 **Objetivo:**
 
-- Criar um sistema bancário com diversas versões, iniciando em sua versão mais básica e evoluindo com versões mais avançadas e otimizadas
+- Criar um sistema bancário com 3 versões, iniciando em sua versão mais básica e evoluindo com versões mais avançadas e otimizadas
 
 ## Versão 1
 - Utilização apenas de conceitos básicos da linguagem Python como : Variáveis, Estruturas condicionais, estruturas de repetição e operadores
@@ -21,6 +21,12 @@
 - Cadastro de usuário: Realiza o cadastro coletando dados como nome, cpf, data de nascimento e endereço e então guarda os valores dentro de uma lista utilizando a função de filtragem para verificar se o usuário ja existe.
 - Criação de conta corrente: Cria uma conta que é vinculada ao cpf do usuário atribuindo a ele um número de agência e um número de conta corrente, dentro da criação de conta também é utilizada a função de filtrar usuários para verificar se o usuário já é cadastrado. 
 - Filtro de usuários: É utilizado para fazer a verificação do cpf de cada usuário, para o caso demja existir uma conta ou um cadastro de usuário ja vinculados com aquele cpf
+
+## Versão 3
+- Modelagem do sistema com programação orientada a objetos
+- Utilização de todos os conceitos utilizados nas versões anteriores mas agora com todas as operações divididas em classes, métodos e atributos de cada classe
+- Foi implementada uma atualização no sistema para armazenar os dados dos clientes e das contas bancárias em objetos e não mais em listas / dicionários.
+- As regras das versões anteriores se mantém para todas as operações como Saque, Depósito, Extrato, Cadastro, Criação de conta, filtro de usuários etc.
 
 ## O que foi utilizado
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

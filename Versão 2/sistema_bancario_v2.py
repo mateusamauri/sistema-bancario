@@ -3,6 +3,7 @@ def menu():
     menu = """ 
 ========== Menu ==========
 
+
 Selecione uma opção
 
 [a] Saque
